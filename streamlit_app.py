@@ -8,7 +8,8 @@ import streamlit as st
 # Saptadeep Dutta.
 
 
-#### Try playing with the two sliders......
+#### Drag the two slider-controls and see the spiral change!
+##### Have fun......
 """
 
 with st.echo(code_location='below'):
